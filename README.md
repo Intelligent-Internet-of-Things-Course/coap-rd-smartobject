@@ -1,4 +1,4 @@
-# CoAP Playground
+# CoAP Smart Object (Resource Directory Support)
 
 This Maven Project provide a demo of a simple CoAP IoT SmartObject based on the Java library Californium.
 The project contains:
